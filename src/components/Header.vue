@@ -22,6 +22,7 @@ import { ref, reactive } from 'vue'
     top: 0;
     left: 0;
     width: 100%;
+    color: #fff;
     background-color: var(--main-hd-color);
     align-items: center;
     font-size: 14px;
